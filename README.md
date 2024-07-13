@@ -9,3 +9,9 @@ For a detailed description of operation and applications - there is a comprehens
 
 http://www.bitsavers.org/components/motorola/14500/MC14500B_Industrial_Control_Unit_Handbook_1977.pdf
 
+
+A clone of the MC14500 has been created in 74HC00 logic:
+
+![image](https://github.com/user-attachments/assets/0645eebd-2410-4d2f-94d9-ee3bcb7af6c0)
+
+
